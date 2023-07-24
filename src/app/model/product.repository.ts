@@ -1,7 +1,6 @@
 import { Injectable } from "@angular/core";
 import { Product } from "./product.model";
 import { StaticDataSource } from "./static.datasource";
-import { filter } from "rxjs";
 
 @Injectable()
 export class ProductRepository{
