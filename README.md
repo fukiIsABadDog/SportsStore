@@ -1,4 +1,4 @@
-#Note
+# Note
 This is a project for my personal own personal learning
 
 # SportsStore
